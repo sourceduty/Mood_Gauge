@@ -66,6 +66,7 @@ Reflections for Growth:
 This Mood Gauge Report serves as a snapshot of the participant's current emotional landscape, offering insights for introspection and avenues for personal growth.
 
  ```
+</details>
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
