@@ -10,6 +10,7 @@ Upon completion of the dialogue, Mood Gauge compiles your responses into a Mood 
 
  ```
 Participant Overview:
+
 The participant demonstrated a broad spectrum of emotions, engaging deeply with each inquiry. Their reflections suggest a complex emotional landscape marked by both recent challenges and moments of joy.
 
 Happiness:
